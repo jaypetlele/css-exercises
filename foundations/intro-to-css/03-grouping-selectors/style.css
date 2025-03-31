@@ -1,8 +1,9 @@
 /* style */
 
 .bg1 {background-color: #be07e2;
-        color: #000000;}
+        color: #ffffff;}
 
 .bg2 {background-color: #08c4f3;} 
 
-
+.uni {font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;}
