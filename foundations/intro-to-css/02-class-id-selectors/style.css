@@ -2,3 +2,6 @@
 
 .odd { background-color: rgba(255, 0, 0, 0.438);
         font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.blue {color: rgb(4, 0, 255);
+        font-size: 36px;}
