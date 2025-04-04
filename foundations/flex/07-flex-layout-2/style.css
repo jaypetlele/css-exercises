@@ -12,7 +12,13 @@ body {
   /** edits **/
   font-size: 32px;
   font-weight: 900;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
 }
+
+.header, .sidebar {padding-left: 16px;}
 
 .footer {
   height: 72px;
