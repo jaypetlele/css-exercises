@@ -38,6 +38,9 @@ body {
  
 }
 
+ul {list-style-type: none;}
+a {text-decoration: none;}
+
 .card-container {display: flex;
                 flex-wrap: wrap;
                 padding: 48px;
