@@ -38,7 +38,9 @@ body {
  
 }
 
-ul {list-style-type: none;}
+ul {list-style-type: none;
+    padding: 0;
+    margin: 0;}
 a {text-decoration: none;}
 
 .card-container {display: flex;
