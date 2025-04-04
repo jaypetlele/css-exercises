@@ -21,7 +21,8 @@ body {
 .header, .sidebar {padding-left: 16px;}
 
 .center {display: flex;
-        
+        align-content: stretch;
+        justify-content: flex-start;
         
         }
 
@@ -33,9 +34,10 @@ body {
   box-sizing: border-box;
   /** edits **/
   flex-shrink: 0;
-  
-
 }
+
+.card-container {display: flex
+                  ;}
 
 .card {
   border: 1px solid #eee;
