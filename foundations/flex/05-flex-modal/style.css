@@ -43,6 +43,15 @@ body {
 
 .header,.text {padding-bottom: 10px;}
 
+.middle-1 {display: flex;
+          justify-content: space-between;}
+
+.header {
+        font-size: 20px;
+        font-weight: 800;}
+
+.text {font-size: 16px;}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
