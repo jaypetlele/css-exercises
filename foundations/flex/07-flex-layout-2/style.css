@@ -34,9 +34,11 @@ body {
   box-sizing: border-box;
   /** edits **/
   flex-shrink: 0;
+ 
 }
 
 .card-container {display: flex;
+                flex-wrap: wrap;
                   }
 
 .card {
@@ -45,6 +47,8 @@ body {
   border-radius: 4px;
   /** edits **/
   padding: 48px;
+  flex:0 0 250px;
+  
 }
 
 .footer {
