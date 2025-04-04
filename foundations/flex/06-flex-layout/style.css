@@ -18,6 +18,19 @@ body {
         justify-content: center;
 }
 
+.right-links,.left-links {
+              display: flex;
+              justify-content: space-between;
+
+            }
+
+li {padding: 10px;
+  list-style-type: none
+}
+a {text-decoration: none;;
+}
+
+
 
 img {
   width: 600px;
