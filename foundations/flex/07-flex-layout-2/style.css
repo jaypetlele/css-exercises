@@ -21,25 +21,32 @@ body {
 .header, .sidebar {padding-left: 16px;}
 
 .center {display: flex;
+        
+        
         }
 
-.footer {
-  height: 72px;
-  background: #eee;
-  color: darkmagenta;
-  /** edits **/
-}
+
 
 .sidebar {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
   /** edits **/
+  flex-shrink: 0;
+  
+
 }
 
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  /** edits **/
+}
+
+.footer {
+  height: 72px;
+  background: #eee;
+  color: darkmagenta;
   /** edits **/
 }
