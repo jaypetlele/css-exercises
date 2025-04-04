@@ -16,6 +16,7 @@ body {
 /** main containers **/
 .header {display: flex;
         justify-content: center;
+        padding: 10px;
 }
 
 .right-links,.left-links {
