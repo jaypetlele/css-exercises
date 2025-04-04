@@ -36,14 +36,15 @@ body {
   flex-shrink: 0;
 }
 
-.card-container {display: flex
-                  ;}
+.card-container {display: flex;
+                  }
 
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   /** edits **/
+  padding: 48px;
 }
 
 .footer {
