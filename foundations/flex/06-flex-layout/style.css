@@ -46,7 +46,6 @@ a {text-decoration: none;
 
 img {
   width: 600px;
-  /** starts here**/
 }
 
 button {
@@ -64,5 +63,13 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
-  /** starts here**/
+}
+
+/** Close body containers **/
+
+/** Footer containers **/
+
+.footer {
+        display: flex;
+        
 }
