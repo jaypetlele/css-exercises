@@ -20,12 +20,14 @@ body {
 
 .right-links,.left-links {
               display: flex;
-              justify-content: space-between;
-
+              justify-content: center;
             }
 
+ul {margin: 0;
+  padding: 0;}
+
 li {padding: 10px;
-  list-style-type: none
+  list-style-type: none;
 }
 a {text-decoration: none;;
 }
