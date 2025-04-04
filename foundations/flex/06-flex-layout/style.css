@@ -13,7 +13,7 @@ body {
 
 }
 
-/** main containers **/
+/** Header containers **/
 .header {display: flex;
         justify-content: center;
         padding: 10px;
@@ -35,8 +35,15 @@ a {text-decoration: none;
   color: #808080;
 }
 
+/** Close header containers **/
 
+/** Body containers **/
 
+.content {
+          text-align: center;
+        }
+
+        
 img {
   width: 600px;
   /** starts here**/
