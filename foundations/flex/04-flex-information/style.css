@@ -4,19 +4,27 @@ body {
 }
 
 /* flex for items */
-.container {  display: flex;
+.container {
+  display: flex;
   flex-direction: row;
   justify-content: center;
+  align-content: center;
   gap: 52px;
+  min-width: 250px;
+  flex-wrap: wrap;
 }
 
-.item {;
-      
+.item {flex-basis: 250px;
+        align-items: center;
+
 }
+
+.text {text-align: center;}
 
 img {
   width: 100px;
   height: 100px;
+  margin: auto;
 }
 
 .title {
