@@ -29,7 +29,8 @@ ul {margin: 0;
 li {padding: 10px;
   list-style-type: none;
 }
-a {text-decoration: none;;
+a {text-decoration: none;
+  color: #808080;
 }
 
 
