@@ -41,6 +41,8 @@ body {
 
 .left {padding-right: 10px;} 
 
+.header,.text {padding-bottom: 10px;}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
