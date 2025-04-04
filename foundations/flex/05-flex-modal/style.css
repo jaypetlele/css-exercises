@@ -23,7 +23,6 @@ body {
   /* edit */
   display: flex;
   align-items:flex-start;
-  justify-content: center;
 }
 
 .icon {
@@ -38,6 +37,8 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.left {padding-right: 10px;} 
 
 .close-button {
   background: #eee;
