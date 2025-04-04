@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 
 }
 
@@ -14,9 +15,6 @@ body {
 
 .item {flex-basis: 200px;
         }
-
-
-.text {text-align: center;}
 
 img {
   width: 100px;
